@@ -1,5 +1,6 @@
 # ms-rewards-bot
-microsoft rewards search bot
+microsoft rewards search bot  
+https://youtu.be/SoNj-4WjUUE?si=UnvBkqf7ZK523qYM
 ## requirements
 make sure you have python downloaded  
 type this in command prompt
